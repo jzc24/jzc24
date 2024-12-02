@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Soy una estudiante de máster en la UCM 🌱
+
 <!--
 **jzc24/jzc24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
